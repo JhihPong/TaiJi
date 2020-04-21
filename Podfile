@@ -14,5 +14,7 @@ pod 'SwiftyJSON'
 pod 'MJRefresh'
 pod 'IQKeyboardManagerSwift'
 pod 'MBProgressHUD'
+pod 'RxSwift'
+pod 'RxCocoa'
 
 end
